@@ -3,6 +3,6 @@
 import math
 
 
-def floor(n: float) -> float:
+def floor(n: float) -> int:
     """ Task 2 """
     return math.floor(n)
